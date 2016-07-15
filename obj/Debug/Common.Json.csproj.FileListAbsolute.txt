@@ -1,5 +1,5 @@
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Common.Json.dll
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Common.Json.pdb
-C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Newtonsoft.Json.dll
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.dll
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.pdb
+C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.csprojResolveAssemblyReference.cache
