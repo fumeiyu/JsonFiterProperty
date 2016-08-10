@@ -29,5 +29,22 @@ namespace Common.Json
             //Formatting.Indented 可读性好
             return JsonConvert.SerializeObject(souce, settings);
         }
+        /// <summary>
+        /// 转换成JSON
+        /// </summary>
+        /// <typeparam name="T"></typeparam>
+        /// <param name="souce"></param>
+        /// <param name="containProperty">生成包含的属性</param>
+        /// <returns></returns>
+        public static string ToJson2<T>(this T souce, string[] containProperty) where T : class, new() {
+            var settings = new JsonSerializerSettings();
+
+            //加上ContractResolver，正向表列哪些属性要序列化
+            settings.ContractResolver =
+            new LimitPropsContractResolver(containProperty,false);
+
+            //Formatting.Indented 可读性好
+            return JsonConvert.SerializeObject(souce, settings);
+        }
     }
 }

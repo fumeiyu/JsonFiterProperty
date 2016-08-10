@@ -3,3 +3,6 @@ C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Common.Json.pdb
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.dll
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.pdb
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.csprojResolveAssemblyReference.cache
+C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.dll
+C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.xml
+C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\zh-Hans\System.Net.Http.resources.dll
