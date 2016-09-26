@@ -6,3 +6,13 @@ C:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.cspro
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.dll
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.xml
 C:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Common.Json.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Common.Json.pdb
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\System.Net.Http.xml
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\zh-Hans\System.Net.Http.resources.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.pdb
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Newtonsoft.Json.dll
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\bin\Debug\Newtonsoft.Json.xml
+D:\newcompany\类库\Common.UI\Common.UI\Common.Json\obj\Debug\Common.Json.csprojResolveAssemblyReference.cache

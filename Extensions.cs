@@ -46,5 +46,9 @@ namespace Common.Json
             //Formatting.Indented 可读性好
             return JsonConvert.SerializeObject(souce, settings);
         }
+
+        public static string ToJson<T>(this T souce) {
+            return JsonConvert.SerializeObject(souce);
+        }
     }
 }

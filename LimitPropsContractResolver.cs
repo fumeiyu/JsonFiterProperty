@@ -11,7 +11,7 @@ namespace Common.Json
     /// <summary>
     /// V1.1 增加 isFiterOrContianer属性
     /// </summary>
-    public class LimitPropsContractResolver : DefaultContractResolver
+    public class LimitPropsContractResolver : DefaultContractResolver  
 
     {
 
